@@ -14,4 +14,4 @@ While all types of vegetarianism is growing increasingly popular, contemporary K
 
 - [Magpie Brewery (Itaewon Branch)](http://www.magpiebrewing.com): this is a local microbrewery that is very popular, but they also serve vegetarian pizzas in the basement so a must-go place if you want to sample the local beer scene. Can be crowded in the weekends.  (02-749-2703)
 
-- [Balwoo Gongyang](http://eng.balwoo.or.kr): this place specialises in traditional Buddhist temple style food - the name refers to the traditional way Buddhist monks eat at temple, while contemplating the life of Buddha. They provide a range of course from 30,000 KRW all the way up to 150,000 KRW. (02-733-2081). <i class="material-icons" style="font-size:14px">place</i>
+- [Balwoo Gongyang](http://eng.balwoo.or.kr): this place specialises in traditional Buddhist temple style food - the name refers to the traditional way Buddhist monks eat at temple, while contemplating the life of Buddha. They provide a range of course from 30,000 KRW all the way up to 150,000 KRW. (02-733-2081). <i class="material-icons" style="font-size:20px">place</i>
